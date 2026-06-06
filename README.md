@@ -26,6 +26,7 @@ AgroMind AI addresses these challenges through AI-driven crop analysis and recom
 ### 🦠 Crop Disease Detection
 
 * Upload crop leaf images
+* AI-powered crop identification
 * Detect crop type
 * Identify crop diseases
 * Display confidence score
@@ -37,6 +38,7 @@ AgroMind AI addresses these challenges through AI-driven crop analysis and recom
 * Conversational crop diagnosis
 * Dynamic follow-up questioning
 * Personalized farming recommendations
+* Context-aware conversations
 
 ### 🌦 Weather Forecast Module
 
@@ -151,7 +153,7 @@ AgroMind-AI/
 ```bash
 git clone https://github.com/yashgangu/AgroMind-AI 
 
-cd agromind-ai
+cd AgroMind-AI
 ```
 
 ### Create Virtual Environment
@@ -202,8 +204,10 @@ streamlit run app.py
 3. AI Detects Crop and Disease
 4. Follow-Up Questions Generated
 5. Personalized Recommendations Generated
-6. Weather Insights Displayed
-7. Download Report
+6. Download Report
+7. Weather Insights Displayed
+8. Use the AI Farming Chatbot for additional guidance
+9. Help & User Guide
 
 ---
 
